@@ -1,0 +1,21 @@
+# =====================================================================
+# GITIGNORE: Arquivos que o Git deve ignorar e NÃO mandar pro GitHub
+# =====================================================================
+
+# 1. Pastas e arquivos de cache do Python (arquivos temporários)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. Ambientes virtuais (caso você crie uma pasta venv no futuro)
+venv/
+.venv/
+env/
+
+# 3. Configurações de editores (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# 4. Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
