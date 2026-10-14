@@ -113,3 +113,13 @@ python main.py
 ```
 
 O menu principal será carregado no terminal e estará pronto para uso! 🚀
+
+---
+
+## 👥 Autores e Colaboradores
+
+Projeto acadêmico desenvolvido em equipe por:
+
+- **Eduarda Reis** ([@dudsstar16](https://github.com/dudsstar16))
+- **Alderiana** ([@alderiana](https://github.com/alderiana))
+
